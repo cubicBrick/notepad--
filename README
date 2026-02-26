@@ -1,2 +1,2 @@
 WINDOWS: run ./windows/main.py
-LINUX: run ./
+LINUX: run ./linux/main.py
