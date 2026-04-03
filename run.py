@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
-"""Launcher: select and load the correct binary from ./bin
 
-This script detects the current OS and Python minor version
-and loads the matching extension module file from the `bin` folder.
-If the loaded module exposes `main()` or `run()`, it will be invoked.
-"""
 from __future__ import annotations
 
 import importlib.machinery
