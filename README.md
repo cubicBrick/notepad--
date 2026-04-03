@@ -10,3 +10,9 @@ Notepad-- (notepad minus minus): Like notepad++, but worse
 |Does not drive you crazy|Drives you crazy|
 
 Notepad-- supports python 3.12-3.14 and windows, linx, and macOS.
+
+How to play Notepad--
+---
+Notepad-- requires python. If you do not have python, install it: https://www.python.org/downloads/.
+
+Simply run `run.py` to play notepad--.
