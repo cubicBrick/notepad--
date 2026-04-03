@@ -1,3 +1,5 @@
+Notepad-- (v1.4)
+---
 Notepad-- (notepad minus minus): Like notepad++, but worse
 | Notepad++ feature | Notepad-- feature |
 |-------------------|-------------------|
